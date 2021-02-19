@@ -13,3 +13,6 @@ A router - is beter than a switch because a router reads IP addresses and a swit
 Network Topologies:
 star, ring, and bus are all examples of topology that can experience single point failure, which means if one computer goes down the whole network goes down.
 mesh and infrastructure are topologies that do not experience single point failure. Mesh topology is better than infrastucure topology in that if a few routers go down the data will be re-routed.
+
+Network Design:
+In my Network design JPEG you will notice that I used an Infrastructure topology utilizing Cisco icons
