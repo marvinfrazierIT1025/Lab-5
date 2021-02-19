@@ -1,0 +1,15 @@
+Data Transmission:
+Packet - 2
+Packet-switching - 4
+IP Address - 3 
+DNS - 5
+Protocol - 1
+
+Network Hardware:
+A hub - is not intellegent, it does not filter data, all a hub knows is when a device is connected to one of its ports.
+a switch - a switch IS intellegent and only sends data to its intended port.
+A router - is beter than a switch because a router reads IP addresses and a switch does not.
+
+Network Topologies:
+star, ring, and bus are all examples of topology that can experience single point failure, which means if one computer goes down the whole network goes down.
+mesh and infrastructure are topologies that do not experience single point failure. Mesh topology is better than infrastucure topology in that if a few routers go down the data will be re-routed.
