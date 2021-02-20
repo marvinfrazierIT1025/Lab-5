@@ -1,0 +1,24 @@
+Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job. 
+"confidentiality" comes into play by making sure that you are chatting with the right person about the order or their account.
+"Integrity" is proven by having the customer recite information that only they would know before moving forward helping them.
+"Availibilty" means being ready to help customers with issues at anytime of day or night.
+
+Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication.
+Opening your phone is a daily task that requires you to just look at your phone by using biometrics, However if your face is partially cover the phone while require a pass code to unlock.
+If you work for the government logging on with a passcode and a PIV (Personal identification verification) card to access any government computer.
+Logging onto the tri-c website is another task that right now just uses a password  and student ID however, possibly utilizing your computers web cam could add a layer of biometrics aswell.
+
+Explain ACL and RBAC. What are the advantages and disadvantages of each?
+ACL (access control list) defines which users have capability to take specific actions with data files. The primary drawback is that each information resource is managed separately, so if a security administrator wanted to add or remove a user to a large set of information resources, it would be quite difficult. 
+RBAC (Role-Based Access Control) gives users access based on their role or job description.  This allows the administrators to manage users and roles separately, simplifying administration and, by extension, improving security.
+
+Explain the interaction of ciphertext, a public key and a private key. 
+When a users sends or stores a message it is encripted with a public key then the message is sent usining "Cypher Text" then it is recieved by the intended user who then decrypts it using their private key.
+
+Cryptography:
+"cryptography is a growing field" was the message sent using the ceasar cypher moving the cypher over 3 spaceses to the right whish ecrypted the message (etarvqitcrja ku c itqykpi hkgnf)
+Typing a message in the "Fingerprint Frequency Exploration" box shows a coralation with the amount of the same letters used in the message. The more a letter is used the higher the frequency of that letter. The frequency of the letters would change using different languages.
+ 
+ Polyalphabetic ciphers utilize multiple shifts instead of one shift in the alphabet like the ceaser cipher does. after typing my message in the exploration box it automatically changed the frequency making the message harder to decrypt.
+ 
+ Brute-Force tries every possible encryption key for a cipher. Brute force would be needed to decrypt ciphers that utilize Kerckhoffs's principle.
